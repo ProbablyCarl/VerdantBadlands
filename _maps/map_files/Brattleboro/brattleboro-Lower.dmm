@@ -688,7 +688,6 @@
 	pixel_y = -32
 	},
 /obj/structure/railing{
-	color = null;
 	dir = 5
 	},
 /obj/item/kirbyplants/random,
@@ -846,8 +845,7 @@
 /area/f13/tunnel)
 "gA" = (
 /obj/machinery/light/small{
-	brightness = 3;
-	dir = 2
+	brightness = 3
 	},
 /turf/open/indestructible/ground/outside/dirt/harsh,
 /area/f13/sewer)
@@ -2839,8 +2837,7 @@
 /area/f13/tunnel)
 "wL" = (
 /obj/machinery/light/small{
-	brightness = 3;
-	dir = 2
+	brightness = 3
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	name = "metal plating"
@@ -3422,7 +3419,6 @@
 	pixel_y = -32
 	},
 /obj/structure/railing{
-	color = null;
 	dir = 9
 	},
 /obj/item/kirbyplants/random,
@@ -4352,8 +4348,7 @@
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
 	name = "human skulls";
-	pixel_x = 2;
-	pixel_y = 0
+	pixel_x = 2
 	},
 /turf/closed/indestructible/vaultdoor,
 /area/f13/tunnel)
@@ -4494,8 +4489,7 @@
 "IU" = (
 /mob/living/simple_animal/hostile/ghoul,
 /obj/machinery/light/small{
-	brightness = 3;
-	dir = 2
+	brightness = 3
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	name = "metal plating"
@@ -4535,9 +4529,7 @@
 /area/f13/tunnel)
 "Jf" = (
 /obj/structure/table,
-/obj/machinery/computer/terminal{
-	dir = 2
-	},
+/obj/machinery/computer/terminal,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	name = "metal plating"
 	},

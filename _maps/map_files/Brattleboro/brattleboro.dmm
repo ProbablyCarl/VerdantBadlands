@@ -1007,14 +1007,6 @@
 "aKs" = (
 /turf/open/indestructible/ground/outside/dirt/harsh,
 /area/f13/wasteland)
-"aKy" = (
-/obj/structure/chair/wood{
-	dir = 2
-	},
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/f13/wood,
-/area/f13/village)
 "aKK" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/sign/poster/contraband/pinup_couch{
@@ -1299,15 +1291,6 @@
 	icon_state = "dirt"
 	},
 /area/f13/caves)
-"aUb" = (
-/obj/machinery/light{
-	dir = 2
-	},
-/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
-	icon_state = "floorrustysolid";
-	name = "store floor"
-	},
-/area/f13/raider_mall)
 "aUq" = (
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "horizontaloutermain1"
@@ -1510,7 +1493,6 @@
 "bce" = (
 /obj/structure/decoration/rag{
 	icon_state = "skin";
-	pixel_y = 0;
 	pixel_x = -32
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -1916,7 +1898,6 @@
 	pixel_y = -1
 	},
 /obj/structure/fence/end{
-	pixel_y = 0;
 	pixel_x = -16
 	},
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -2136,7 +2117,6 @@
 	dir = 4
 	},
 /obj/effect/landmark/poster_spawner/prewar{
-	pixel_y = 0;
 	pixel_x = 31
 	},
 /turf/open/floor/wood/wood_common,
@@ -2795,9 +2775,7 @@
 /area/f13/wasteland)
 "bZZ" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/machinery/light/small/broken{
-	dir = 2
-	},
+/obj/machinery/light/small/broken,
 /turf/open/floor/f13/wood,
 /area/f13/village)
 "cam" = (
@@ -3415,9 +3393,7 @@
 	},
 /area/f13/wasteland)
 "czE" = (
-/obj/structure/chair/sofa/corner{
-	dir = 2
-	},
+/obj/structure/chair/sofa/corner,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/f13/wood,
 /area/f13/village)
@@ -3576,9 +3552,7 @@
 /area/f13/ncr)
 "cGX" = (
 /obj/structure/fence/wooden,
-/turf/open/indestructible/ground/outside/dirt/harsh/corner{
-	dir = 2
-	},
+/turf/open/indestructible/ground/outside/dirt/harsh/corner,
 /area/f13/wasteland/ncr)
 "cHh" = (
 /obj/item/kirbyplants/random,
@@ -4153,7 +4127,6 @@
 /area/f13/ncr)
 "ddM" = (
 /obj/effect/landmark/poster_spawner/prewar{
-	pixel_y = 0;
 	pixel_x = 31
 	},
 /turf/open/floor/f13{
@@ -4680,8 +4653,7 @@
 "dyO" = (
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/closed/wall/f13/store,
@@ -5532,7 +5504,6 @@
 /obj/structure/railing/handrail/rusty/underlayer,
 /obj/structure/decoration/rag{
 	icon_state = "skin";
-	pixel_y = 0;
 	pixel_x = -32
 	},
 /turf/open/indestructible/ground/outside/water,
@@ -5751,9 +5722,7 @@
 	},
 /area/f13/raider_mall)
 "ese" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
+/obj/structure/fence,
 /turf/open/indestructible/ground/outside/dirt/harsh,
 /area/f13/wasteland/ncr)
 "esf" = (
@@ -6099,9 +6068,7 @@
 /area/f13/wasteland/ncr)
 "eCN" = (
 /obj/effect/spawner/lootdrop/f13/medical/vault/meds,
-/obj/structure/chair{
-	dir = 2
-	},
+/obj/structure/chair,
 /turf/open/floor/f13,
 /turf/open/floor/plasteel,
 /area/f13/village)
@@ -6952,17 +6919,14 @@
 /area/f13/wasteland)
 "fiE" = (
 /obj/structure/fence{
-	dir = 4;
-	pixel_y = 0
+	dir = 4
 	},
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "verticaloutermain1"
 	},
 /area/f13/wasteland)
 "fiS" = (
-/obj/structure/chair{
-	dir = 2
-	},
+/obj/structure/chair,
 /turf/open/floor/f13,
 /turf/open/floor/plasteel,
 /area/f13/village)
@@ -8460,7 +8424,6 @@
 	pixel_y = -1
 	},
 /obj/structure/fence/end{
-	pixel_y = 0;
 	pixel_x = 16
 	},
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -9274,8 +9237,7 @@
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
 	name = "human skulls";
-	pixel_x = 2;
-	pixel_y = 0
+	pixel_x = 2
 	},
 /turf/closed/wall/f13/store,
 /area/f13/raider_mall)
@@ -9468,8 +9430,7 @@
 /area/f13/village)
 "gOA" = (
 /obj/structure/curtain{
-	color = "#363636";
-	pixel_y = 0
+	color = "#363636"
 	},
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
@@ -9863,7 +9824,6 @@
 /area/f13/village)
 "hfo" = (
 /obj/effect/overlay/turfs/cliff{
-	pixel_y = 0;
 	dir = 1;
 	pixel_x = 12
 	},
@@ -10127,8 +10087,7 @@
 /area/f13/wasteland)
 "hnW" = (
 /obj/structure/toilet{
-	dir = 4;
-	pixel_y = 0
+	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -10281,7 +10240,6 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/poster_spawner/prewar{
-	pixel_y = 0;
 	pixel_x = 31
 	},
 /turf/open/floor/f13{
@@ -10943,9 +10901,7 @@
 	},
 /area/f13/village)
 "hPO" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
+/obj/structure/fence,
 /turf/open/indestructible/ground/outside/desert/harsh{
 	name = "dry dirt"
 	},
@@ -12552,8 +12508,7 @@
 /area/f13/wasteland)
 "iUY" = (
 /obj/structure/curtain{
-	color = "#363636";
-	pixel_y = 0
+	color = "#363636"
 	},
 /turf/open/floor/f13/wood,
 /area/f13/village)
@@ -13018,8 +12973,7 @@
 "jnk" = (
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /turf/closed/wall/f13/store,
 /area/f13/raider_mall)
@@ -13501,12 +13455,8 @@
 /turf/open/floor/f13/wood,
 /area/f13/city/bighorn)
 "jHZ" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
-/turf/open/indestructible/ground/outside/dirt/harsh/corner{
-	dir = 2
-	},
+/obj/structure/fence,
+/turf/open/indestructible/ground/outside/dirt/harsh/corner,
 /area/f13/wasteland/ncr)
 "jIJ" = (
 /obj/structure/fence{
@@ -13892,7 +13842,6 @@
 "kab" = (
 /obj/structure/railing/wood/post{
 	pixel_x = -14;
-	pixel_y = 0;
 	dir = 1
 	},
 /turf/open/indestructible/ground/outside/road,
@@ -14394,7 +14343,6 @@
 /area/f13/village)
 "krh" = (
 /obj/structure/railing{
-	dir = 2;
 	color = "#A47449"
 	},
 /turf/open/floor/f13/wood,
@@ -14724,8 +14672,7 @@
 	},
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -15293,8 +15240,7 @@
 "lbi" = (
 /obj/structure/simple_door/metal/fence{
 	dir = 4;
-	pixel_x = 1;
-	pixel_y = 0
+	pixel_x = 1
 	},
 /turf/open/indestructible/ground/outside/desert/harsh{
 	name = "dry dirt"
@@ -15368,7 +15314,6 @@
 	pixel_x = -29
 	},
 /obj/effect/overlay/turfs/cliff{
-	pixel_y = 0;
 	dir = 1;
 	pixel_x = 8
 	},
@@ -16165,8 +16110,7 @@
 /area/f13/wasteland)
 "lGJ" = (
 /obj/structure/curtain{
-	color = "#363636";
-	pixel_y = 0
+	color = "#363636"
 	},
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
@@ -16175,9 +16119,7 @@
 /area/f13/village)
 "lHu" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/chair{
-	dir = 2
-	},
+/obj/structure/chair,
 /turf/open/floor/f13,
 /turf/open/floor/plasteel,
 /area/f13/village)
@@ -16799,9 +16741,7 @@
 "meh" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/structure/chair{
-	dir = 2
-	},
+/obj/structure/chair,
 /turf/open/floor/f13,
 /turf/open/floor/plasteel,
 /area/f13/village)
@@ -17144,7 +17084,6 @@
 	},
 /obj/structure/closet/crate/wicker,
 /obj/effect/overlay/turfs/cliff{
-	pixel_y = 0;
 	dir = 1;
 	pixel_x = 8
 	},
@@ -17326,8 +17265,7 @@
 	},
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -18785,8 +18723,7 @@
 /obj/structure/window/fulltile/house,
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /obj/structure/decoration/rag,
 /obj/effect/decal/cleanable/dirt,
@@ -20081,7 +20018,6 @@
 "ovm" = (
 /obj/structure/railing/wood/post{
 	pixel_x = 12;
-	pixel_y = 0;
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt/dust,
@@ -20118,12 +20054,10 @@
 /area/f13/wasteland)
 "ovX" = (
 /obj/structure/fence{
-	pixel_x = 17;
-	pixel_y = 0
+	pixel_x = 17
 	},
 /obj/structure/fence{
-	pixel_x = -15;
-	pixel_y = 0
+	pixel_x = -15
 	},
 /obj/structure/barricade/sandbags,
 /turf/open/indestructible/ground/outside/desert/harsh{
@@ -21169,11 +21103,6 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/carpet/blue,
 /area/f13/village)
-"pkn" = (
-/turf/open/indestructible/ground/outside/dirt/harsh/corner{
-	dir = 2
-	},
-/area/f13/wasteland)
 "plf" = (
 /obj/item/ammo_casing/spent,
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -21357,7 +21286,6 @@
 /area/f13/village)
 "pqU" = (
 /turf/open/indestructible/ground/outside/dirt/harsh/side{
-	dir = 2;
 	icon_state = "dirtcorner"
 	},
 /area/f13/wasteland/ncr)
@@ -22123,9 +22051,7 @@
 	},
 /area/f13/wasteland)
 "pRK" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
+/obj/structure/fence,
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "horizontaloutermain1"
 	},
@@ -22314,7 +22240,6 @@
 	pixel_y = 1
 	},
 /turf/open/indestructible/ground/outside/desert/harsh{
-	dir = 2;
 	icon = 'icons/fallout/turfs/f13roadharsh.dmi';
 	icon_state = "outerpavement";
 	name = "road"
@@ -22653,8 +22578,7 @@
 /area/f13/raider_mall)
 "qiv" = (
 /turf/open/indestructible/ground/outside/sidewalk{
-	icon_state = "outerturn";
-	dir = 2
+	icon_state = "outerturn"
 	},
 /area/f13/wasteland)
 "qjs" = (
@@ -22691,8 +22615,7 @@
 "qlm" = (
 /obj/structure/simple_door/metal/fence{
 	dir = 4;
-	pixel_x = 1;
-	pixel_y = 0
+	pixel_x = 1
 	},
 /turf/open/indestructible/ground/outside/desert/harsh{
 	name = "dry dirt"
@@ -22875,7 +22798,6 @@
 	},
 /obj/item/fishingrod,
 /obj/effect/overlay/turfs/cliff{
-	pixel_y = 0;
 	dir = 1;
 	pixel_x = 8
 	},
@@ -24392,9 +24314,7 @@
 /area/f13/building)
 "rvv" = (
 /obj/structure/flora/stump,
-/turf/open/indestructible/ground/outside/dirt/harsh/corner{
-	dir = 2
-	},
+/turf/open/indestructible/ground/outside/dirt/harsh/corner,
 /area/f13/wasteland/bighorn)
 "rvB" = (
 /obj/structure/table,
@@ -24768,7 +24688,6 @@
 /area/f13/village)
 "rIt" = (
 /obj/structure/sign/poster/official/help_others{
-	pixel_y = 0;
 	pixel_x = 31
 	},
 /turf/open/floor/plasteel/f13{
@@ -25124,8 +25043,7 @@
 /obj/structure/window/fulltile/house,
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
@@ -26344,9 +26262,7 @@
 /turf/open/indestructible/ground/outside/dirt/harsh,
 /area/f13/caves)
 "sTk" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
+/obj/structure/fence,
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "horizontaloutermain2"
 	},
@@ -26677,7 +26593,6 @@
 	dir = 4
 	},
 /obj/structure/decoration/rag{
-	pixel_y = 0;
 	pixel_x = -32
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -26806,14 +26721,6 @@
 	icon_state = "housewood2-broken"
 	},
 /area/f13/village)
-"tjl" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
-/turf/open/indestructible/ground/outside/desert/harsh{
-	name = "dry dirt"
-	},
-/area/f13/wasteland/ncr)
 "tjo" = (
 /obj/structure/table,
 /obj/effect/decal/cleanable/dirt,
@@ -28108,9 +28015,7 @@
 	},
 /area/f13/wasteland)
 "ucr" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
+/obj/structure/fence,
 /obj/structure/fence/corner{
 	dir = 4;
 	pixel_y = -1
@@ -28133,12 +28038,6 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/wood/wood_common,
 /area/f13/village)
-"ucU" = (
-/turf/open/indestructible/ground/outside/dirt/harsh{
-	dir = 2;
-	icon_state = "dirt"
-	},
-/area/f13/wasteland)
 "udk" = (
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
@@ -28266,8 +28165,7 @@
 /area/f13/village)
 "ujo" = (
 /obj/structure/fence{
-	dir = 4;
-	pixel_y = 0
+	dir = 4
 	},
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "verticaloutermain2"
@@ -28512,7 +28410,6 @@
 /obj/structure/table,
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/sign/poster/official/help_others{
-	pixel_y = 0;
 	pixel_x = 31
 	},
 /turf/open/floor/plasteel/f13{
@@ -28821,8 +28718,7 @@
 /area/f13/ncr)
 "uIs" = (
 /obj/structure/fence{
-	dir = 4;
-	pixel_y = 0
+	dir = 4
 	},
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "verticaloutermain0"
@@ -29339,7 +29235,6 @@
 /area/f13/village)
 "vcV" = (
 /obj/structure/railing/wood/underlayer{
-	pixel_y = 0;
 	dir = 4
 	},
 /turf/open/indestructible/ground/outside/water,
@@ -29433,7 +29328,6 @@
 "vfe" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/sign/poster/official/help_others{
-	pixel_y = 0;
 	pixel_x = 31
 	},
 /turf/open/floor/plasteel/f13{
@@ -29876,9 +29770,7 @@
 	},
 /area/f13/wasteland)
 "vup" = (
-/turf/open/indestructible/ground/outside/dirt/harsh/corner{
-	dir = 2
-	},
+/turf/open/indestructible/ground/outside/dirt/harsh/corner,
 /area/f13/wasteland/ncr)
 "vuv" = (
 /mob/living/simple_animal/hostile/radroach,
@@ -29918,7 +29810,6 @@
 	pixel_y = 20
 	},
 /obj/effect/landmark/poster_spawner/prewar{
-	pixel_y = 0;
 	pixel_x = 31
 	},
 /turf/open/floor/f13{
@@ -29987,8 +29878,7 @@
 /area/f13/village)
 "vzZ" = (
 /obj/structure/decoration/rag{
-	icon_state = "skulls";
-	pixel_y = 0
+	icon_state = "skulls"
 	},
 /obj/structure/simple_door/metal/dirtystore,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
@@ -30000,7 +29890,6 @@
 /obj/structure/lattice/catwalk,
 /obj/structure/decoration/rag{
 	icon_state = "skin";
-	pixel_y = 0;
 	pixel_x = -32
 	},
 /turf/open/indestructible/ground/outside/water,
@@ -30345,7 +30234,6 @@
 	dir = 1
 	},
 /obj/effect/overlay/turfs/cliff{
-	pixel_y = 0;
 	dir = 1;
 	pixel_x = 8
 	},
@@ -31698,9 +31586,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/city/bighorn)
 "wIU" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
+/obj/structure/fence,
 /turf/open/indestructible/ground/outside/dirt/harsh/side{
 	dir = 1
 	},
@@ -32043,9 +31929,7 @@
 	},
 /area/f13/village)
 "wVW" = (
-/obj/structure/fence{
-	pixel_y = 0
-	},
+/obj/structure/fence,
 /turf/open/indestructible/ground/outside/dirt/harsh/side{
 	dir = 6
 	},
@@ -32275,7 +32159,6 @@
 /area/f13/wasteland)
 "xfE" = (
 /obj/structure/decoration/rag{
-	pixel_y = 0;
 	pixel_x = -32
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -33064,8 +32947,7 @@
 /obj/machinery/vending/coffee,
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -33087,9 +32969,7 @@
 	},
 /area/f13/village)
 "xHF" = (
-/turf/open/indestructible/ground/outside/dirt/harsh/corner{
-	dir = 2
-	},
+/turf/open/indestructible/ground/outside/dirt/harsh/corner,
 /area/f13/wasteland/bighorn)
 "xIk" = (
 /mob/living/simple_animal/hostile/ghoul,
@@ -33179,8 +33059,7 @@
 "xMv" = (
 /obj/structure/decoration/rag{
 	icon_state = "skulls";
-	name = "human skulls";
-	pixel_y = 0
+	name = "human skulls"
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
@@ -33892,9 +33771,7 @@
 /turf/open/indestructible/ground/outside/road,
 /area/f13/wasteland)
 "ylA" = (
-/obj/structure/chair/office/dark{
-	dir = 2
-	},
+/obj/structure/chair/office/dark,
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/f13{
 	icon_state = "floordirty"
@@ -36414,7 +36291,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -36870,7 +36747,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 oCH
 aKs
@@ -38645,7 +38522,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -39101,7 +38978,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -39557,7 +39434,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 gUF
@@ -40013,7 +39890,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -40469,7 +40346,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -40859,7 +40736,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -40970,7 +40847,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -41291,7 +41168,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -41426,7 +41303,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 oCH
@@ -41839,7 +41716,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 oCH
 oCH
 oCH
@@ -42339,7 +42216,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 oCH
 nEk
@@ -42795,7 +42672,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 oCH
 oCH
@@ -44645,7 +44522,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -45101,7 +44978,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 oCH
@@ -45557,7 +45434,7 @@ ohj
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 dVE
@@ -49039,7 +48916,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 pdX
 pdX
 pdX
@@ -49496,7 +49373,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -49953,7 +49830,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -50410,7 +50287,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -50867,7 +50744,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 oqn
@@ -51312,7 +51189,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 nDR
@@ -51324,7 +51201,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -51768,7 +51645,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -51781,7 +51658,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -52224,7 +52101,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 oCH
@@ -52238,7 +52115,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -52680,7 +52557,7 @@ iOe
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -52695,7 +52572,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -53152,7 +53029,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -53291,7 +53168,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -53609,7 +53486,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 aKs
 ecU
 ecU
@@ -53746,7 +53623,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -54524,7 +54401,7 @@ joA
 joA
 joA
 joA
-ucU
+sQG
 ecU
 ecU
 ecU
@@ -54548,7 +54425,7 @@ mAe
 gwv
 joA
 joA
-pkn
+aJn
 mTA
 wPW
 jxN
@@ -54980,7 +54857,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 hLH
 ogs
 ogs
@@ -55461,7 +55338,7 @@ iuT
 gwv
 joA
 joA
-pkn
+aJn
 jQb
 mTA
 mTA
@@ -55893,7 +55770,7 @@ iOe
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -56374,7 +56251,7 @@ gwv
 joA
 joA
 joA
-pkn
+aJn
 tcA
 cAA
 mCY
@@ -56828,7 +56705,7 @@ aKs
 aKs
 iOe
 joA
-pkn
+aJn
 rfC
 rfC
 tcA
@@ -56962,7 +56839,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 pxQ
@@ -57284,7 +57161,7 @@ aKs
 aKs
 iuT
 gwv
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -57418,7 +57295,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 oCH
 aKs
@@ -58177,7 +58054,7 @@ gwv
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -58331,7 +58208,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 oCH
 dVE
@@ -58654,7 +58531,7 @@ aKs
 iOe
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -58694,7 +58571,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 aKs
@@ -59607,7 +59484,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -60063,7 +59940,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -60976,7 +60853,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -61374,7 +61251,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -61826,11 +61703,11 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 nDR
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -61889,7 +61766,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -62281,7 +62158,7 @@ joA
 joA
 joA
 sys
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -62308,7 +62185,7 @@ iOe
 joA
 joA
 joA
-pkn
+aJn
 rfC
 nDR
 joA
@@ -62737,7 +62614,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -62763,7 +62640,7 @@ nEk
 aKs
 ulG
 nDR
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -62802,7 +62679,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 gUF
 aKs
@@ -64107,7 +63984,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -64172,7 +64049,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 oCH
@@ -65020,7 +64897,7 @@ gwv
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -65408,9 +65285,9 @@ vZe
 tnm
 wDj
 nxa
-tjl
-tjl
-tjl
+reH
+reH
+reH
 jHZ
 wVW
 ese
@@ -65418,10 +65295,10 @@ gZe
 ese
 ese
 wIU
-tjl
-tjl
-tjl
-tjl
+reH
+reH
+reH
+reH
 lZP
 lZP
 lZP
@@ -65475,7 +65352,7 @@ aKs
 ulG
 nDR
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -65802,7 +65679,7 @@ wTA
 mNh
 joA
 joA
-pkn
+aJn
 rfC
 nDR
 joA
@@ -65999,7 +65876,7 @@ mNh
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -66258,7 +66135,7 @@ qKv
 wTA
 mNh
 joA
-pkn
+aJn
 tcA
 aKs
 ulG
@@ -66490,7 +66367,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 lCQ
 lCQ
 nDR
@@ -66873,7 +66750,7 @@ iuT
 bvB
 bvB
 gwv
-pkn
+aJn
 tcA
 aKs
 lGA
@@ -66892,7 +66769,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 sxd
 ulC
@@ -67348,7 +67225,7 @@ iOe
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aCC
@@ -67804,7 +67681,7 @@ iuT
 gwv
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -68125,7 +68002,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -68260,7 +68137,7 @@ aKs
 iOe
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -68580,7 +68457,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -69035,7 +68912,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -69490,7 +69367,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -69946,7 +69823,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -70617,7 +70494,7 @@ lmU
 mbp
 cOJ
 gXl
-aKy
+htB
 jSF
 sXh
 mNh
@@ -70859,7 +70736,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -71315,7 +71192,7 @@ ulG
 nDR
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -74970,7 +74847,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -76512,7 +76389,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 nDR
@@ -76968,7 +76845,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -78168,7 +78045,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -82846,7 +82723,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -82913,7 +82790,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -83369,7 +83246,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -83759,7 +83636,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -83825,7 +83702,7 @@ cQF
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -84672,7 +84549,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -85479,7 +85356,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -86042,7 +85919,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -86109,7 +85986,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 oCH
@@ -86392,7 +86269,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -86565,7 +86442,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -86977,7 +86854,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -87020,7 +86897,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -87432,7 +87309,7 @@ iOe
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -87476,7 +87353,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -87497,7 +87374,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -87762,7 +87639,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -87888,7 +87765,7 @@ aKs
 iOe
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -87932,7 +87809,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 oCH
@@ -87970,7 +87847,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 nDR
 joA
@@ -88218,7 +88095,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -88801,7 +88678,7 @@ iuT
 gwv
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -89131,7 +89008,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -89587,7 +89464,7 @@ joA
 joA
 puC
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -89751,7 +89628,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 nDR
@@ -89806,7 +89683,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 nDR
 joA
@@ -90043,7 +89920,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -90203,7 +90080,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -90261,7 +90138,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -90659,7 +90536,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -90717,7 +90594,7 @@ gwv
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -91115,7 +90992,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -92567,7 +92444,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -93023,7 +92900,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -98602,7 +98479,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -98649,7 +98526,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -98670,7 +98547,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -98948,7 +98825,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 nDR
@@ -99044,7 +98921,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 nDR
@@ -99056,7 +98933,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 tcA
@@ -99088,7 +98965,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -99103,7 +98980,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 tcA
@@ -99118,7 +98995,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -99309,7 +99186,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -99404,7 +99281,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -99483,7 +99360,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -99541,7 +99418,7 @@ rfC
 rfC
 nDR
 hZu
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -99857,7 +99734,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -99926,7 +99803,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -100275,7 +100152,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 nDR
 joA
@@ -100307,7 +100184,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -100354,7 +100231,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -100363,7 +100240,7 @@ rfC
 rfC
 rfC
 nDR
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -100381,7 +100258,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -100729,7 +100606,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 tcA
@@ -100762,7 +100639,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -100805,7 +100682,7 @@ rfC
 rfC
 rfC
 nDR
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -100992,7 +100869,7 @@ rfC
 nDR
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -101168,7 +101045,7 @@ nDR
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -101183,7 +101060,7 @@ nDR
 joA
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 tcA
@@ -101217,7 +101094,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 tcA
 aKs
@@ -101476,7 +101353,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 rfC
 nDR
 joA
@@ -101668,7 +101545,7 @@ rfC
 nDR
 joA
 joA
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -123260,7 +123137,7 @@ joA
 joA
 hZu
 joA
-pkn
+aJn
 tcA
 ulG
 tcA
@@ -123269,7 +123146,7 @@ aKs
 aKs
 aKs
 iOe
-pkn
+aJn
 rfC
 nDR
 joA
@@ -123710,7 +123587,7 @@ bvB
 bvB
 bvB
 qYe
-pkn
+aJn
 rfC
 rfC
 rfC
@@ -124166,7 +124043,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -124622,7 +124499,7 @@ joA
 hZu
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -125078,7 +124955,7 @@ joA
 joA
 joA
 joA
-pkn
+aJn
 tcA
 aKs
 aKs
@@ -133409,7 +133286,7 @@ oNG
 ctP
 dps
 tcg
-aUb
+pQr
 gBj
 joA
 joA
